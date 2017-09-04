@@ -1,4 +1,4 @@
-# frontend
+# Frontend
 
 > A Vue.js project
 
