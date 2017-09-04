@@ -11,25 +11,6 @@ This is a frontend project created using vue js. In order to use this project yo
 
 In order for you to successfully run this app. You to run the backend of this application. Before you can login, you need to login to you database. Locate the oauth_clients table and copy Grant client secret key. Back at our frontend open login.vue located at src/components/authentication/Login.vue In our signin method, paste the client_secret that copied from the database.
 
-Lastly, head over to the database and copy the crediatial of one user
+Lastly, head over to the database and copy the crediatial of one user. To start our frontend application run the following command:<b>npm run dev</b> and visit localhost:8080 signin and enjoy.
 
-
-
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-
-
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+<p align="center">Happy Coding!</p>
