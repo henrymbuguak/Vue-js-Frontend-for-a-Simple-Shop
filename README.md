@@ -13,4 +13,4 @@ In order for you to successfully run this app. You need to run the backend of th
 
 Lastly, head over to the database and copy the crediatial of one user, all you need is the email of the user and the password is <b>secret</b> for all seeded users. To start our frontend application run the following command:<b>npm run dev</b> and visit localhost:8080 signin and enjoy.
 
-<p align="center">Happy Coding!</p>
+<p align="center"><b>Happy Coding!</b></p>
